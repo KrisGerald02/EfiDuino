@@ -1,13 +1,3 @@
-<p align="right">
-  <a href="README.md"><img src="https://img.shields.io/badge/🌐-Español-red?style=for-the-badge" alt="Versión en Español"></a>
-  <a href="README_EN.md"><img src="https://img.shields.io/badge/🌐-Inglés-blue?style=for-the-badge" alt="English Version"></a>
-</p>
-<p align="right">
-  <a href="README.md"><img src="https://img.shields.io/badge/🌐-Spanish-red?style=for-the-badge" alt="Versión en Español"></a>
-  <a href="README_EN.md"><img src="https://img.shields.io/badge/🌐-English-blue?style=for-the-badge" alt="English Version"></a>
-</p>
-
-
 # ⚙️ AppEficienciaIndustrial
 
 Bienvenido a **AppEficienciaIndustrial**, una aplicación iOS desarrollada en Swift con arquitectura **MVVM** para medir la eficiencia de producción por minuto en entornos industriales. 🏭📈
