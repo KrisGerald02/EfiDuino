@@ -124,10 +124,3 @@ UAMCourses/
 - 🎥 [`Dashboard.mov`](Images/Dashboard.mov) (Vista general del sistema)  
 - 🎥 [`Graficas.mov`](Images/Graficas.mov) (Visualización de datos en tiempo real)
 
----
-
-## 📜 Licencia
-
-Este proyecto está licenciado bajo la **Licencia MIT**. Puedes ver los detalles en el siguiente enlace:
-
-📄 [Licencia MIT](LICENSE)
