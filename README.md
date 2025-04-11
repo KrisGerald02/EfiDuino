@@ -13,8 +13,6 @@ Esta app permite a las empresas registrar en tiempo real la cantidad de producto
 - [📂 Estructura del Proyecto](#-estructura-del-proyecto)
 - [🔧 Tecnologías Usadas](#-tecnologías-usadas)
 - [📸 Recursos](#-recursos)
-- [📜 Licencia](#-licencia)
-
 ---
 
 ## 📖 Descripción
